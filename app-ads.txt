@@ -1,1 +1,1 @@
-
+app-ads.txt:com.nikhil.flashlight, pub-2597362772456476, google-play, com.nikhil.flashlight
